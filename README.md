@@ -5,7 +5,7 @@
 
 ![Saul GitHub stats](https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs&count_private=true&show_icons=true&-dev&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que possuo proeficiência
 
