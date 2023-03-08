@@ -17,9 +17,9 @@
 
  <h1 align="center">✨ About me: </h1>
 
-<div align="center" width="100%">
-<p><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgs-dev&show_icons=true&locale=en&layout=compact" alt="saulgs-dev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
+<div align="center">
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgs-dev&show_icons=true&locale=en&layout=compact" alt="saulgs-dev" /></p>
+<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
 
 </div>
 
