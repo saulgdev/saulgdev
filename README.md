@@ -19,11 +19,11 @@
 
 <div align="center">
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgs-dev&show_icons=true&locale=en&layout=compact" alt="saulgs-dev" /></p>
-<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
+<p>&nbsp;<img width="60%" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
 
+<p><img align="center" width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&" alt="saulgs-dev" /></p>
 </div>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&" alt="saulgs-dev" /></p>
 <br>
 <br>
 
