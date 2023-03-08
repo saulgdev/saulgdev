@@ -17,10 +17,13 @@
 
  <h1 align="center">✨ About me: </h1>
 
-<p><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgs-dev&show_icons=true&locale=en&layout=compact" alt="saulgs-dev" /></p>
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
+<div align="center">
+<p><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgs-dev&show_icons=true&locale=en&layout=compact" alt="saulgs-dev" /></p>
+<p>&nbsp;<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&" alt="saulgs-dev" /></p>
+</div>
+
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&" alt="saulgs-dev" /></p>
 <br>
 <br>
 
