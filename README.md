@@ -23,7 +23,7 @@ Meu objetivo é criar soluções eficientes e escaláveis que atendam às necess
 
 ## Habilidades
 
-<p>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=compact&langs_count=8&theme=dracula" alt="Saul's Top Languages"/>
-  </p>
-  <p><img width="45%" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&count_private=true&hide=contribs&theme=dracula" alt="Saul's Github Stats" /></p>
+<div align="center">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=compact&langs_count=8&theme=dracula" alt="Saul's Top Languages"/>
+ </div>
+
