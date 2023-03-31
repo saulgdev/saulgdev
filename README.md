@@ -1,29 +1,30 @@
-## Olá! Eu sou Saul Gomes! Desenvolvedor Front-End
+### Hi there 👋
+
+I'm Saul Gomes, a Full-stack Developer from Brazil.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulgsousa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-gomes-3a21061aa/)
 
-### Tecnologias que possuo proeficiência
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="redis" width="40" height="40"/> </a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  </a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="[https://redis.io](https://pt-br.reactjs.org)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="redis" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="vagrant" width="40" height="40"/> </a>
-<a href="http://typescript.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="redis" width="40" height="40"/> </a> </a>
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </a>
-<a href="https://www.css3.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://eslint.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="redis" width="40" height="40"/> </a>
+## Tecnologias que possuo proficiência
 
+- HTML, CSS e JavaScript
+- Frameworks front-end como React e Vue.js
+- Node.js e frameworks back-end como Express e Nest.js
+- Bancos de dados relacionais e não relacionais como MySQL, PostgreSQL e MongoDB
+- AWS e outras plataformas em nuvem
 
- <h1 align="center">✨ About me: </h1>
+## Habilidades
 
 <div align="center">
-<p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saulgs-dev&show_icons=true&locale=en&layout=compact" alt="saulgs-dev" /></p>
-<p>&nbsp;<img width="60%" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&locale=en" alt="saulgs-dev" /></p>
-
-<p><img align="center" width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&" alt="saulgs-dev" /></p>
+  <p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=compact&langs_count=8&theme=dracula" alt="Saul's Top Languages"/>
+  </p>
+  <p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&count_private=true&hide=contribs&theme=dracula" alt="Saul's Github Stats" /></p>
+  <p>
+    <img align="center" width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&theme=dracula" alt="Saul's Github Streak" />
+  </p>
 </div>
-
-<br>
-<br>
 
 <div align="center" dir="auto"><a href="https://github.com/saulgs-dev">
 </p>
