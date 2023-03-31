@@ -16,15 +16,10 @@ I'm Saul Gomes, a Full-stack Developer from Brazil.
 
 ## Habilidades
 
-<div align="center">
-  <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=compact&langs_count=8&theme=dracula" alt="Saul's Top Languages"/>
+<p>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=compact&langs_count=8&theme=dracula" alt="Saul's Top Languages"/>
   </p>
-  <p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&count_private=true&hide=contribs&theme=dracula" alt="Saul's Github Stats" /></p>
-  <p>
-    <img align="center" width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=saulgs-dev&theme=dracula" alt="Saul's Github Streak" />
-  </p>
-</div>
+  <p><img width="45%" src="https://github-readme-stats.vercel.app/api?username=saulgs-dev&show_icons=true&count_private=true&hide=contribs&theme=dracula" alt="Saul's Github Stats" /></p>
 
 <div align="center" dir="auto"><a href="https://github.com/saulgs-dev">
 </p>
