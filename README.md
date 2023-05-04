@@ -15,7 +15,7 @@ Meu objetivo é criar soluções eficientes e escaláveis que atendam às necess
 
 ## Tecnologias que possuo proficiência
 
-- JAVASCRIPT | REACT | TYPESCRIPT | TYPEORM | POSTGREESQL | TAILWIND | GIT | MONGODB | HTML | CSS
+- NEXTJS | TYPESCRIPT | NODEJS | DOCKER | TYPEORM | POSTGREESQL | TAILWIND | GIT | HTML | CSS | JAVASCRIPT
 - Frameworks front-end como Next.Js e Angular.js
 - Node.js e frameworks back-end como Express e Nest.js
 - Bancos de dados relacionais e não relacionais como MySQL, PostgreSQL e MongoDB
