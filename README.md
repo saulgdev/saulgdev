@@ -2,11 +2,6 @@
 
 I'm Saul Gomes, a Full-stack Developer from Brazil.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulgsdev&color=yellow" alt="Profile views" /> </p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulgsousa/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-gomes-3a21061aa/)
-
 ## Sobre mim
 
 Olá, sou um desenvolvedor full stack com experiência em diversas tecnologias web.
@@ -15,15 +10,7 @@ Meu objetivo é criar soluções eficientes e escaláveis que atendam às necess
 
 ## Tecnologias que possuo proficiência
 
-- NEXTJS | TYPESCRIPT | NODEJS | DOCKER | TYPEORM | POSTGREESQL | TAILWIND | GIT | HTML | CSS | JAVASCRIPT
-- Frameworks front-end como Next.Js e Angular.js
-- Node.js e frameworks back-end como Express e Nest.js
+- NEXTJS | TYPESCRIPT | NODEJS | DOCKER | TYPEORM | POSTGREESQL | TAILWIND | GIT
+- Frameworks front-end como Next.Js
+- Node.js e frameworks back-end como Fastify e Nest.js
 - Bancos de dados relacionais e não relacionais como MySQL, PostgreSQL e MongoDB
-- AWS e outras plataformas em nuvem
-
-## Habilidades
-
-<div align="center">
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulgs-dev&layout=compact&langs_count=8&theme=dracula" alt="Saul's Top Languages"/>
- </div>
-
